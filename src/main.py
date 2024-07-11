@@ -10,9 +10,7 @@ from fastapi import FastAPI, HTTPException
 from fastapi.openapi.docs import get_swagger_ui_html
 from starlette.responses import RedirectResponse, JSONResponse
 
-# Remova temporariamente a configuração de log
-# from src.config.log_config import log_config
-
+from src.config.log_config import log_config  # Certifique-se de que o log_config é importado corretamente
 from src.controller.auth_controller import auth_router
 from src.controller.product_controller import product_router
 
@@ -75,12 +73,8 @@ async def get_openapi():
 if __name__ == '__main__':
     import uvicorn
     print("Starting Uvicorn server...")
-    uvicorn.run(app, host='localhost', port=8000)  # Removido log_config
+    uvicorn.run(app, host='localhost', port=8000, log_config=log_config)  # Usar log_config
     print("Uvicorn server has stopped.")
-
-
-
-
 
 
 # import sys
