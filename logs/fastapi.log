@@ -1,0 +1,24 @@
+2024-07-11 16:23:38,795 [product-registration-api] server._serve - Started server process [7748]
+2024-07-11 16:23:38,806 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 16:23:38,820 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 16:23:38,946 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 16:36:10,672 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 16:36:10,782 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 16:36:10,783 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 16:36:10,784 [product-registration-api] server._serve - Finished server process [7748]
+2024-07-11 16:37:03,800 [product-registration-api] server._serve - Started server process [8940]
+2024-07-11 16:37:03,801 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 16:37:03,801 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 16:37:03,817 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 16:42:00,779 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 16:42:00,893 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 16:42:00,894 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 16:42:00,895 [product-registration-api] server._serve - Finished server process [8940]
+2024-07-11 16:44:24,044 [product-registration-api] server._serve - Started server process [8560]
+2024-07-11 16:44:24,044 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 16:44:24,044 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 16:44:24,110 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 16:51:58,012 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 16:51:58,120 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 16:51:58,121 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 16:51:58,122 [product-registration-api] server._serve - Finished server process [8560]
