@@ -54,3 +54,51 @@
 2024-07-11 18:14:49,439 [product-registration-api] on.shutdown - Waiting for application shutdown.
 2024-07-11 18:14:49,440 [product-registration-api] on.shutdown - Application shutdown complete.
 2024-07-11 18:14:49,441 [product-registration-api] server._serve - Finished server process [8216]
+2024-07-11 18:15:16,028 [product-registration-api] server._serve - Started server process [9148]
+2024-07-11 18:15:16,028 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 18:15:16,028 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 18:15:16,047 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 18:19:24,348 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 18:19:24,463 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 18:19:24,464 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 18:19:24,465 [product-registration-api] server._serve - Finished server process [9148]
+2024-07-11 18:19:47,268 [product-registration-api] server._serve - Started server process [844]
+2024-07-11 18:19:47,270 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 18:19:47,271 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 18:19:47,271 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 18:22:17,849 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 18:22:17,950 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 18:22:17,952 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 18:22:17,952 [product-registration-api] server._serve - Finished server process [844]
+2024-07-11 18:22:52,190 [product-registration-api] server._serve - Started server process [5620]
+2024-07-11 18:22:52,190 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 18:22:52,190 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 18:22:52,206 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 18:46:22,277 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 18:46:22,391 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 18:46:22,392 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 18:46:22,410 [product-registration-api] server._serve - Finished server process [5620]
+2024-07-11 18:46:51,667 [product-registration-api] server._serve - Started server process [8348]
+2024-07-11 18:46:51,668 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 18:46:51,668 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 18:46:51,684 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 18:59:43,329 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 18:59:43,439 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 18:59:43,439 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 18:59:43,439 [product-registration-api] server._serve - Finished server process [8348]
+2024-07-11 19:29:15,808 [product-registration-api] server._serve - Started server process [1408]
+2024-07-11 19:29:15,838 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 19:29:15,839 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 19:29:16,386 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 19:31:05,383 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 19:31:05,492 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 19:31:05,505 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 19:31:05,505 [product-registration-api] server._serve - Finished server process [1408]
+2024-07-11 19:35:28,384 [product-registration-api] server._serve - Started server process [8076]
+2024-07-11 19:35:28,385 [product-registration-api] on.startup - Waiting for application startup.
+2024-07-11 19:35:28,386 [product-registration-api] on.startup - Application startup complete.
+2024-07-11 19:35:28,451 [product-registration-api] server._log_started_message - Uvicorn running on http://localhost:8000 (Press CTRL+C to quit)
+2024-07-11 19:45:40,616 [product-registration-api] server.shutdown - Shutting down
+2024-07-11 19:45:40,727 [product-registration-api] on.shutdown - Waiting for application shutdown.
+2024-07-11 19:45:40,728 [product-registration-api] on.shutdown - Application shutdown complete.
+2024-07-11 19:45:40,729 [product-registration-api] server._serve - Finished server process [8076]

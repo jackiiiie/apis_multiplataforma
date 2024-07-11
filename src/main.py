@@ -80,22 +80,6 @@ if __name__ == '__main__':
 
 
 
-# import sys
-# import os
-
-# # Adiciona o diretório raiz do projeto ao sys.path
-# current_dir = os.path.dirname(__file__)
-# root_dir = os.path.abspath(os.path.join(current_dir, '..'))
-# sys.path.insert(0, root_dir)
-
-# from fastapi import FastAPI, HTTPException
-# from fastapi.openapi.docs import get_swagger_ui_html
-# from starlette.responses import RedirectResponse, JSONResponse
-
-# from src.config.log_config import log_config  # Certifique-se de que o log_config é importado corretamente
-# from src.controller.auth_controller import auth_router
-# from src.controller.product_controller import product_router
-
 # app = FastAPI(
 #     title="Product Registration API",
 #     description="Api to manage products",
@@ -155,8 +139,11 @@ if __name__ == '__main__':
 # if __name__ == '__main__':
 #     import uvicorn
 #     print("Starting Uvicorn server...")
-#     uvicorn.run(app, host='localhost', port=8000, log_config=log_config)  # Usar log_config
+#     uvicorn.run(app, host='localhost', port=8000, log_config=log_config)
 #     print("Uvicorn server has stopped.")
+
+
+
 
 #/////////////////////////////////////////////////////////////////
 # import sys
