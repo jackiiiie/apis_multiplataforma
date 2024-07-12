@@ -23,9 +23,9 @@ app = FastAPI(
     docs_url=None,
     redoc_url=None,
     contact={
-        "name": "Luan Fernandes",
-        "email": "luan.santos26@fatec.sp.gov.br",
-        "url": "https://luanfernandes.dev"
+        "name": "jackelyne",
+        "email": "jackelyne.ramos@fatec.sp.gov.br",
+        "url": "https://jackelyne.dev"
     },
     license_info={
         "name": "MIT",
@@ -76,6 +76,21 @@ if __name__ == '__main__':
     print("Starting Uvicorn server...")
     uvicorn.run(app, host='localhost', port=8000, log_config=log_config)
     print("Uvicorn server has stopped.")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
